@@ -1,0 +1,65 @@
+.logo {
+	width: 140px;
+	margin-left: 10px;
+	margin-top: 14px;
+}
+.item {
+	line-height: 36px !important;
+}
+.row_2{
+	/*border: 1px solid #FFE9D3;*/
+}
+.row_2 div{
+	float: left;
+
+}
+.row_2 h2{
+	/*border-bottom: 1px solid #FFE9D3;
+	border-right: 1px solid #FFE9D3;*/
+    background: #fdf4e5;
+    height: 26px;
+    line-height: 26px;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    color: #666;
+    width: 100%;
+}
+.row_2 div li{
+	text-align: center;
+    height: 26px;
+    float: left;
+    font-size: 12px;
+}
+.row_2 .div_1{
+	
+	border: 1px solid #FFE9D3;
+}
+.row_2 .div_1:nth-child(1){
+	width: 115px;
+	height: 109px;
+	border-right: none;
+}
+.row_2 .div_1:nth-child(1) h2{
+	width: 115px;
+	
+}
+.row_2 .div_1:nth-child(1) li{
+	width: 100%;
+}
+.row_2 .div_1:nth-child(2){
+	width: 425px;
+	height: 109px;
+	border-right: none;
+}
+.row_2 .div_1:nth-child(2) li{
+	width: 20%;
+}
+.row_2 .div_1:nth-child(3){
+	width: 482px;
+	height: 109px;
+	
+}
+.row_2 .div_1:nth-child(3) li{
+	width: 20%;
+}
